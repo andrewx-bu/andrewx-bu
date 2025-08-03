@@ -4,7 +4,7 @@ Junior at Boston University studying Computer Science
 
 ---
 
-### Languages, Technologies, and Tools I use:
+### Languages, Technologies, and Tools I've used:
 ![Languages](https://go-skill-icons.vercel.app/api/icons?i=python,cpp,kotlin,swift,javascript,cuda&perline=6)
 
 ![Frameworks](https://go-skill-icons.vercel.app/api/icons?i=pytest,jetpackcompose,firebase,flask,sqlite,qt&perline=6)  
