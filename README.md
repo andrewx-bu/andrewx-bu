@@ -9,7 +9,7 @@ Junior at Boston University studying Computer Science
 
 ![Frameworks](https://go-skill-icons.vercel.app/api/icons?i=pytest,pytorch,jetpackcompose,firebase,flask,trpc,sqlite,supabase,prisma,qt,&perline=15&theme=dark)  
 
-![Tools](https://go-skill-icons.vercel.app/api/icons?i=bash,linux,vim,git,githubactions,gradle,npm,insomnia,docker,ffmpeg,&perline=15&theme=dark)
+![Tools](https://go-skill-icons.vercel.app/api/icons?i=bash,linux,vim,git,githubactions,gradle,npm,postman,docker,ffmpeg,&perline=15&theme=dark)
 
 ### Currently learning:
-![Languages](https://go-skill-icons.vercel.app/api/icons?i=cuda,ocaml,vue,vite,vercel&perline=10&theme=dark)
+![Languages](https://go-skill-icons.vercel.app/api/icons?i=reactnative,expo,clerk,ocaml,cuda&perline=10&theme=dark)
