@@ -12,4 +12,4 @@ Junior at Boston University studying Computer Science
 ![Tools](https://go-skill-icons.vercel.app/api/icons?i=bash,linux,vim,git,githubactions,gradle,npm,postman,docker,ffmpeg,&perline=15&theme=dark)
 
 ### Currently learning:
-![Languages](https://go-skill-icons.vercel.app/api/icons?i=reactnative,expo,vercel,clerk,ocaml,cuda&perline=10&theme=dark)
+![Languages](https://go-skill-icons.vercel.app/api/icons?i=reactnative,expo,clerk,vercel,jest,ocaml,cuda&perline=10&theme=dark)
